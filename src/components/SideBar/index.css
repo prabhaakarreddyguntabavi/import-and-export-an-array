@@ -1,0 +1,22 @@
+.icons {
+  width: 5vw;
+  margin-right: 1pc;
+}
+.side-bar-paragraph {
+  width: 100%;
+  margin-right: auto;
+}
+.selected-color {
+  background-color: #e2e8f0;
+  width: 100%;
+}
+.icon-color {
+  color: #ff0b37;
+}
+.social-media-image {
+  margin-right: 20px;
+  width: 50%;
+}
+.paragraph {
+  text-decoration: none !important;
+}

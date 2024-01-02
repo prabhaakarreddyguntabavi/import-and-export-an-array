@@ -1,0 +1,21 @@
+.closing-button {
+  background-color: transparent;
+  border-width: 0px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.closing-icon {
+  height: 30px;
+  width: 30px;
+}
+
+.no-search-result {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+.videos-link {
+  text-decoration: none;
+}
